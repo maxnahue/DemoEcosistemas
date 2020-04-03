@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoEcosistemas"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.490">
+    <properties></properties>
+
+
+
+            <testcase
+                name="TC_03_Compra_Producto"
+                time="6.685"
+                classname="com.demo.testCases.SuiteDemo">
+            </testcase>
+            <testcase
+                name="TC_04_Logout"
+                time="2.337"
+                classname="com.demo.testCases.SuiteDemo">
+            </testcase>
+            <testcase
+                name="TC_01_Login_Exitoso"
+                time="5.906"
+                classname="com.demo.testCases.SuiteDemo">
+            </testcase>
+            <testcase
+                name="TC_02_Login_Fail"
+                time="0.562"
+                classname="com.demo.testCases.SuiteDemo">
+            </testcase>
+</testsuite>

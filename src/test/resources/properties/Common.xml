@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE sqlMap
+    PUBLIC "-//ibatis.apache.org//DTD SQL Map 2.0//EN"
+    "http://ibatis.apache.org/dtd/sql-map-2.dtd">
+<sqlMap namespace="common">
+    
+    <select id="existeEnvio" resultClass="java.util.HashMap">
+        <![CDATA[
+        SELECT * 
+        FROM entityNumber 
+        WHERE numberCode =#nroEnvio# 
+        ]]>
+    </select>
+    
+     <select id="getNroEnvioNao" resultClass="java.util.HashMap">
+       <![CDATA[
+        use Trazabilidad_TEST
+		SELECT  top 1 r.valor
+		FROM dbo.tracking t INNER JOIN dbo.referencia r on t.id = r.tracking_id inner join dbo.novedad n on t.id = n.tracking_id 
+		WHERE contrato_id in ('9', '10') AND nombre = 'NumeroDeEnvio' AND codigo = 'NumeroDeEnvio' AND t.estado != 'Anulado' and fecha_alta BETWEEN DATEADD(MONTH, -6, GETDATE()) AND GETDATE() and DATENAME (DAY, fecha_alta) not in ('29','30','31')
+		ORDER BY fecha_alta DESC
+        ]]>
+    </select>
+    
+    <select id="getNroSerieNao" resultClass="java.util.HashMap">
+       <![CDATA[
+        USE Trazabilidad_TEST
+		SELECT TOP 1 Serie 
+		FROM sat.dbo.maestroeventos 
+		WHERE almacen='RCH' 
+		ORDER BY FecEvento DESC
+        ]]>
+    </select>
+    
+    <select id="getNroGtinNao" resultClass="java.util.HashMap">
+       <![CDATA[
+       USE Trazabilidad_TEST
+	   SELECT TOP 1 Gtin 
+       FROM sat.dbo.maestroeventos 
+       WHERE almacen='RCH' 
+       ORDER BY FecEvento DESC
+        ]]>
+    </select>
+    
+    <select id="getNroRemitoNao" resultClass="java.util.HashMap">
+       <![CDATA[
+        USE Trazabilidad_TEST
+		SELECT TOP 1 Remito 
+		FROM sat.dbo.maestroeventos 
+		WHERE almacen='RCH' 
+		ORDER BY FecEvento DESC
+        ]]>
+    </select>
+    
+    <select id="getListaEnviosPorDireccion" resultClass="java.util.HashMap">
+        <![CDATA[
+        SELECT numberCode, street, * 
+        FROM entityNumber with (nolock) 
+        JOIN address with (nolock) ON entityNumber.addressRecipient = address.address
+        WHERE street = #direccion# and state = 17  
+        ORDER BY entityNumber.numberCode
+        ]]>
+    </select>
+    
+</sqlMap>

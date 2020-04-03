@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a13b9d2-607f-460d-85e3-4f20c7284cd5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zv7at8HzM3Fkt5iDKUfNewzw5W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.utilities" />
+      <recent name="com.demo.base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\DemoEcosistemas\src\test\resources\executables" />
+      <recent name="C:\Users\ASUS\IdeaProjects\DemoEcosistemas\src\test" />
+      <recent name="C:\Users\ASUS\IdeaProjects\DemoEcosistemas\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SuiteDemo">
+    <configuration name="SuiteDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoEcosistemas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.testCases.SuiteDemo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuiteDemo.TC_01_Login_Exitoso (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoEcoSistemas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.testCases.SuiteDemo" />
+      <option name="METHOD_NAME" value="TC_01_Login_Exitoso" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuiteDemo.TC_01_Login_Exitoso" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="demoEcoSistemas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.testCases.SuiteDemo" />
+      <option name="METHOD_NAME" value="TC_01_Login_Exitoso" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuiteDemo.TC_03_Compra_Producto (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoEcosistemas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.testCases.SuiteDemo" />
+      <option name="METHOD_NAME" value="TC_03_Compra_Producto" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuiteDemo.TC_03_Compra_Producto" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoEcosistemas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demo.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.testCases.SuiteDemo" />
+      <option name="METHOD_NAME" value="TC_03_Compra_Producto" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SuiteDemo" />
+        <item itemvalue="TestNG.SuiteDemo.TC_03_Compra_Producto (1)" />
+        <item itemvalue="TestNG.SuiteDemo.TC_03_Compra_Producto" />
+        <item itemvalue="TestNG.SuiteDemo.TC_01_Login_Exitoso" />
+        <item itemvalue="TestNG.SuiteDemo.TC_01_Login_Exitoso (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a13b9d2-607f-460d-85e3-4f20c7284cd5" name="Default Changelist" comment="" />
+      <created>1585707780984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585707780984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1585939036170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1585939036170" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585939091089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585939091089" />
+    <state x="2326" y="131" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585708840205">
+      <screen x="1920" y="12" width="1536" height="864" />
+    </state>
+    <state x="2326" y="131" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585708840205" />
+    <state x="2418" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585788476304">
+      <screen x="1920" y="12" width="1536" height="864" />
+    </state>
+    <state x="2418" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585788476304" />
+    <state x="2468" y="198" key="FileChooserDialogImpl" timestamp="1585796462019">
+      <screen x="1920" y="12" width="1536" height="864" />
+    </state>
+    <state x="2468" y="198" key="FileChooserDialogImpl/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585796462019" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585941246921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585941246921" />
+    <state width="721" height="274" key="GridCell.Tab.0.bottom/0.0.1536.864/-1920.-12.1536.864@0.0.1536.864" timestamp="1585800570017" />
+    <state width="1491" height="274" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585846425062" />
+    <state width="1491" height="297" key="GridCell.Tab.0.bottom/1920.12.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1585787636631" />
+    <state width="1491" height="274" key="GridCell.Tab.0.bottom/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585797320761" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585941246920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585941246920" />
+    <state width="721" height="274" key="GridCell.Tab.0.center/0.0.1536.864/-1920.-12.1536.864@0.0.1536.864" timestamp="1585800570017" />
+    <state width="1491" height="274" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585846425062" />
+    <state width="1491" height="297" key="GridCell.Tab.0.center/1920.12.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1585787636630" />
+    <state width="1491" height="274" key="GridCell.Tab.0.center/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585797320761" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585941246920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585941246920" />
+    <state width="721" height="274" key="GridCell.Tab.0.left/0.0.1536.864/-1920.-12.1536.864@0.0.1536.864" timestamp="1585800570017" />
+    <state width="1491" height="274" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585846425062" />
+    <state width="1491" height="297" key="GridCell.Tab.0.left/1920.12.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1585787636630" />
+    <state width="1491" height="274" key="GridCell.Tab.0.left/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585797320761" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585941246921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585941246921" />
+    <state width="721" height="274" key="GridCell.Tab.0.right/0.0.1536.864/-1920.-12.1536.864@0.0.1536.864" timestamp="1585800570017" />
+    <state width="1491" height="274" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585846425062" />
+    <state width="1491" height="297" key="GridCell.Tab.0.right/1920.12.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1585787636631" />
+    <state width="1491" height="274" key="GridCell.Tab.0.right/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585797320761" />
+    <state width="1491" height="276" key="GridCell.Tab.1.bottom" timestamp="1585797568492">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="276" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585797568492" />
+    <state width="1491" height="276" key="GridCell.Tab.1.bottom/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585796744849" />
+    <state width="1491" height="276" key="GridCell.Tab.1.center" timestamp="1585797568492">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="276" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585797568492" />
+    <state width="1491" height="276" key="GridCell.Tab.1.center/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585796744848" />
+    <state width="1491" height="276" key="GridCell.Tab.1.left" timestamp="1585797568492">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="276" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585797568492" />
+    <state width="1491" height="276" key="GridCell.Tab.1.left/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585796744847" />
+    <state width="1491" height="276" key="GridCell.Tab.1.right" timestamp="1585797568492">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="276" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585797568492" />
+    <state width="1491" height="276" key="GridCell.Tab.1.right/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585796744848" />
+    <state x="2494" y="96" key="Maven.ArtifactSearchDialog" timestamp="1585796865951">
+      <screen x="1920" y="12" width="1536" height="864" />
+    </state>
+    <state x="2494" y="96" key="Maven.ArtifactSearchDialog/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585796865951" />
+    <state x="344" y="179" key="caller.chooser.dialog" timestamp="1585841982047">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="344" y="179" key="caller.chooser.dialog/0.0.1536.864@0.0.1536.864" timestamp="1585841982047" />
+    <state x="2264" y="191" key="caller.chooser.dialog/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585717579405" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585938172386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585938172386" />
+    <state x="2384" y="206" width="609" height="652" key="find.popup" timestamp="1585751926904">
+      <screen x="1920" y="12" width="1536" height="864" />
+    </state>
+    <state x="2384" y="206" width="609" height="652" key="find.popup/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585751926904" />
+    <state x="2336" y="142" key="new project wizard" timestamp="1585796457978">
+      <screen x="1920" y="12" width="1536" height="864" />
+    </state>
+    <state x="2336" y="142" key="new project wizard/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585796457978" />
+    <state x="2394" y="62" key="refactoring.ChangeSignatureDialog" timestamp="1585796985089">
+      <screen x="1920" y="12" width="1536" height="864" />
+    </state>
+    <state x="2394" y="62" key="refactoring.ChangeSignatureDialog/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585796985089" />
+    <state x="378" y="161" key="run.anything.popup" timestamp="1585940448801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="161" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585940448801" />
+    <state x="425" y="191" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585841945030" />
+    <state x="425" y="191" key="run.anything.popup/1920.12.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1585787603967" />
+    <state x="2345" y="203" key="run.anything.popup/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585723385519" />
+    <state x="2351" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1585792377770">
+      <screen x="1920" y="12" width="1536" height="864" />
+    </state>
+    <state x="2351" y="193" width="672" height="678" key="search.everywhere.popup/1920.12.1536.864/0.0.1536.864@1920.12.1536.864" timestamp="1585792377770" />
+  </component>
+</project>
